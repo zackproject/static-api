@@ -1,0 +1,28 @@
+Política de Privacidad de Rotativo
+Última actualización: [fecha]
+
+Gracias por usar Rotativo. Esta política de privacidad explica cómo manejamos tu información cuando usas nuestra aplicación móvil.
+
+1. Publicidad
+Utilizamos el servicio AdMob de Google para mostrar anuncios dentro de la aplicación. Hemos configurado AdMob para que muestre solo anuncios no personalizados, lo que significa que no se utiliza tu información personal para segmentar los anuncios que ves.
+
+Aunque los anuncios no están personalizados, Google puede recopilar datos no identificables, como:
+
+Información sobre el dispositivo (tipo, modelo, sistema operativo).
+
+Frecuencia de uso de la app.
+
+Interacciones básicas con los anuncios.
+
+Para más información sobre cómo Google maneja los datos de los usuarios, puedes visitar:
+https://policies.google.com/technologies/partner-sites
+
+2. Datos personales
+No recopilamos, almacenamos ni compartimos información personal tuya a través de esta aplicación.
+
+3. Cambios en esta política
+Podemos actualizar esta política de privacidad en el futuro. Te notificaremos dentro de la app si hay cambios importantes.
+
+4. Contacto
+Si tienes preguntas sobre esta política, puedes escribirnos a: zackprojectapp@gmail.com
+
